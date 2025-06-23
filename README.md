@@ -58,6 +58,7 @@ This is a real-time object detection and multi-object tracking system that ident
 ## 🚀 Demo
 
 📺 **[Live Demo or Video Preview](#)** *(replace with your actual link or upload on YouTube)*
+How to Use Clone the repo git clone https://github.com/yourusername/object_dectection_tracking.git
 
 ---
 
